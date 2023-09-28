@@ -6,6 +6,6 @@ find out when the sunsets today!
 </head>
 <body style="background-color:powderblue;">
 <img src="https://media.tenor.com/meWMu0BLLEAAAAAd/aesthetic-sunset.gif">
- <h1>Thats a really pretty view! </h1>
-<h2>When can i view more??? </h2>
+ <h1 style="background-color:powderblue;">Thats a really pretty view! </h1>
+<h2>When can I view more??? </h2>
 </body>
